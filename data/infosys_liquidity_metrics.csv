@@ -1,0 +1,169 @@
+metric_id,metric,financial_year,value,unit,basis,how_calculated,caution
+A01,Cash and cash equivalents,FY2022-23,12173,₹ crore,Reported,Raw Data R15,
+A01,Cash and cash equivalents,FY2023-24,14786,₹ crore,Reported,Raw Data R15,
+A01,Cash and cash equivalents,FY2024-25,24455,₹ crore,Reported,Raw Data R15,
+A02,Investments (current + non-current),FY2022-23,19478,₹ crore,Reported,Raw Data R16,Current and non-current are combined in the source; the split is not available.
+A02,Investments (current + non-current),FY2023-24,24623,₹ crore,Reported,Raw Data R16,Current and non-current are combined in the source; the split is not available.
+A02,Investments (current + non-current),FY2024-25,23541,₹ crore,Reported,Raw Data R16,Current and non-current are combined in the source; the split is not available.
+A03,Cash + investments,FY2022-23,31651,₹ crore,Calculated,A01 + A02,"Broad measure. It includes non-current investments, so it is NOT a short-term (current-asset) measure."
+A03,Cash + investments,FY2023-24,39409,₹ crore,Calculated,A01 + A02,"Broad measure. It includes non-current investments, so it is NOT a short-term (current-asset) measure."
+A03,Cash + investments,FY2024-25,47996,₹ crore,Calculated,A01 + A02,"Broad measure. It includes non-current investments, so it is NOT a short-term (current-asset) measure."
+A04,Net cash (cash + investments − debt),FY2022-23,31651,₹ crore,Calculated,A03 − Debt (R11),"Debt is nil in all three years, so net cash equals cash + investments."
+A04,Net cash (cash + investments − debt),FY2023-24,39409,₹ crore,Calculated,A03 − Debt (R11),"Debt is nil in all three years, so net cash equals cash + investments."
+A04,Net cash (cash + investments − debt),FY2024-25,47996,₹ crore,Calculated,A03 − Debt (R11),"Debt is nil in all three years, so net cash equals cash + investments."
+A05,Cash and equivalents as % of cash + investments,FY2022-23,0.384600802502291,%,Calculated,A01 ÷ A03,Higher share = more of the pool is held as cash rather than investments.
+A05,Cash and equivalents as % of cash + investments,FY2023-24,0.375193483721992,%,Calculated,A01 ÷ A03,Higher share = more of the pool is held as cash rather than investments.
+A05,Cash and equivalents as % of cash + investments,FY2024-25,0.509521626802234,%,Calculated,A01 ÷ A03,Higher share = more of the pool is held as cash rather than investments.
+A06,Cash + investments ÷ total assets (own calculation),FY2022-23,0.251565778597317,%,Calculated,A03 ÷ Total assets (R18),Slightly above the company's figure because the company excludes some investments (see A07).
+A06,Cash + investments ÷ total assets (own calculation),FY2023-24,0.285957885265648,%,Calculated,A03 ÷ Total assets (R18),Slightly above the company's figure because the company excludes some investments (see A07).
+A06,Cash + investments ÷ total assets (own calculation),FY2024-25,0.322330644782174,%,Calculated,A03 ÷ Total assets (R18),Slightly above the company's figure because the company excludes some investments (see A07).
+A07,"Cash and investments ÷ total assets (company, printed)",FY2022-23,0.249,%,Reported ratio,Raw Data Q02,Company's non-IFRS measure (p.1).
+A07,"Cash and investments ÷ total assets (company, printed)",FY2023-24,0.283,%,Reported ratio,Raw Data Q02,Company's non-IFRS measure (p.1).
+A07,"Cash and investments ÷ total assets (company, printed)",FY2024-25,0.319,%,Reported ratio,Raw Data Q02,Company's non-IFRS measure (p.1).
+A08,Gap: own less company,FY2022-23,0.256577859731671,pp,Check,(A06 − A07) × 100,A small positive gap is expected; a large or negative gap would signal a data problem.
+A08,Gap: own less company,FY2023-24,0.295788526564794,pp,Check,(A06 − A07) × 100,A small positive gap is expected; a large or negative gap would signal a data problem.
+A08,Gap: own less company,FY2024-25,0.33306447821736,pp,Check,(A06 − A07) × 100,A small positive gap is expected; a large or negative gap would signal a data problem.
+A09,Cash + investments ÷ revenue (own calculation),FY2022-23,0.215654745276527,%,Calculated,A03 ÷ Revenue (R01),
+A09,Cash + investments ÷ revenue (own calculation),FY2023-24,0.256452137697664,%,Calculated,A03 ÷ Revenue (R01),
+A09,Cash + investments ÷ revenue (own calculation),FY2024-25,0.294472053500215,%,Calculated,A03 ÷ Revenue (R01),
+A10,"Cash and investments ÷ revenue (company, printed)",FY2022-23,0.213,%,Reported ratio,Raw Data Q03,
+A10,"Cash and investments ÷ revenue (company, printed)",FY2023-24,0.254,%,Reported ratio,Raw Data Q03,
+A10,"Cash and investments ÷ revenue (company, printed)",FY2024-25,0.292,%,Reported ratio,Raw Data Q03,
+A11,Gap: own less company,FY2022-23,0.265474527652673,pp,Check,(A09 − A10) × 100,
+A11,Gap: own less company,FY2023-24,0.245213769766384,pp,Check,(A09 − A10) × 100,
+A11,Gap: own less company,FY2024-25,0.247205350021473,pp,Check,(A09 − A10) × 100,
+B01,Net current assets,FY2022-23,31695,₹ crore,Reported,Raw Data R17,Source does not define it or give its two components; used only as reported.
+B01,Net current assets,FY2023-24,50638,₹ crore,Reported,Raw Data R17,Source does not define it or give its two components; used only as reported.
+B01,Net current assets,FY2024-25,54249,₹ crore,Reported,Raw Data R17,Source does not define it or give its two components; used only as reported.
+B02,Net current assets ÷ revenue,FY2022-23,0.215954540189552,%,Calculated,B01 ÷ Revenue,
+B02,Net current assets ÷ revenue,FY2023-24,0.329524305329602,%,Calculated,B01 ÷ Revenue,
+B02,Net current assets ÷ revenue,FY2024-25,0.332836370329468,%,Calculated,B01 ÷ Revenue,
+B03,Net current assets ÷ total assets,FY2022-23,0.251915495644433,%,Calculated,B01 ÷ Total assets,
+B03,Net current assets ÷ total assets,FY2023-24,0.36743727052404,%,Calculated,B01 ÷ Total assets,
+B03,Net current assets ÷ total assets,FY2024-25,0.364324425968584,%,Calculated,B01 ÷ Total assets,
+B04,Equity ÷ total assets,FY2022-23,0.602427354231576,%,Calculated,Equity (R10) ÷ Total assets (R18),Rising share of equity = less reliance on liabilities.
+B04,Equity ÷ total assets,FY2023-24,0.641886891027036,%,Calculated,Equity (R10) ÷ Total assets (R18),Rising share of equity = less reliance on liabilities.
+B04,Equity ÷ total assets,FY2024-25,0.646078319442859,%,Calculated,Equity (R10) ÷ Total assets (R18),Rising share of equity = less reliance on liabilities.
+B05,Debt ÷ equity,FY2022-23,0,x,Calculated,Debt (R11) ÷ Equity (R10),Zero: the source shows no debt in any year.
+B05,Debt ÷ equity,FY2023-24,0,x,Calculated,Debt (R11) ÷ Equity (R10),Zero: the source shows no debt in any year.
+B05,Debt ÷ equity,FY2024-25,0,x,Calculated,Debt (R11) ÷ Equity (R10),Zero: the source shows no debt in any year.
+B06,Finance cost,FY2022-23,284,₹ crore,Reported,Raw Data R03,A positive finance cost alongside nil debt means it relates to something other than borrowings; the source does not say what.
+B06,Finance cost,FY2023-24,470,₹ crore,Reported,Raw Data R03,A positive finance cost alongside nil debt means it relates to something other than borrowings; the source does not say what.
+B06,Finance cost,FY2024-25,416,₹ crore,Reported,Raw Data R03,A positive finance cost alongside nil debt means it relates to something other than borrowings; the source does not say what.
+B07,Operating profit ÷ finance cost,FY2022-23,108.820422535211,x,Calculated,Operating profit (R02) ÷ B06,Coverage is very high in every year.
+B07,Operating profit ÷ finance cost,FY2023-24,67.5468085106383,x,Calculated,Operating profit (R02) ÷ B06,Coverage is very high in every year.
+B07,Operating profit ÷ finance cost,FY2024-25,82.75,x,Calculated,Operating profit (R02) ÷ B06,Coverage is very high in every year.
+B08,Operating costs (revenue − operating profit),FY2022-23,115862,₹ crore,Calculated,Revenue (R01) − Operating profit (R02),"Includes non-cash items such as depreciation, so cash costs are somewhat lower (cover days below are conservative)."
+B08,Operating costs (revenue − operating profit),FY2023-24,121923,₹ crore,Calculated,Revenue (R01) − Operating profit (R02),"Includes non-cash items such as depreciation, so cash costs are somewhat lower (cover days below are conservative)."
+B08,Operating costs (revenue − operating profit),FY2024-25,128566,₹ crore,Calculated,Revenue (R01) − Operating profit (R02),"Includes non-cash items such as depreciation, so cash costs are somewhat lower (cover days below are conservative)."
+B09,Operating costs per day,FY2022-23,317.430136986301,₹ crore,Calculated,B08 ÷ days in year (AS2),
+B09,Operating costs per day,FY2023-24,334.035616438356,₹ crore,Calculated,B08 ÷ days in year (AS2),
+B09,Operating costs per day,FY2024-25,352.235616438356,₹ crore,Calculated,B08 ÷ days in year (AS2),
+B10,Days of operating costs covered by cash + investments,FY2022-23,99.7101292917436,days,Calculated,A03 ÷ B09,A buffer measure: how long the pool would fund operating costs with no revenue.
+B10,Days of operating costs covered by cash + investments,FY2023-24,117.97843721037,days,Calculated,A03 ÷ B09,A buffer measure: how long the pool would fund operating costs with no revenue.
+B10,Days of operating costs covered by cash + investments,FY2024-25,136.261064356051,days,Calculated,A03 ÷ B09,A buffer measure: how long the pool would fund operating costs with no revenue.
+B11,Days of operating costs covered by cash and equivalents only,FY2022-23,38.3485957432118,days,Calculated,A01 ÷ B09,"The stricter, more immediately available version."
+B11,Days of operating costs covered by cash and equivalents only,FY2023-24,44.2647408610352,days,Calculated,A01 ÷ B09,"The stricter, more immediately available version."
+B11,Days of operating costs covered by cash and equivalents only,FY2024-25,69.4279591804987,days,Calculated,A01 ÷ B09,"The stricter, more immediately available version."
+B12,"Day's sales outstanding (company, USD terms)",FY2022-23,62,days,Reported ratio,Raw Data Q04,Lower = faster collection. Computed by the company in USD terms.
+B12,"Day's sales outstanding (company, USD terms)",FY2023-24,71,days,Reported ratio,Raw Data Q04,Lower = faster collection. Computed by the company in USD terms.
+B12,"Day's sales outstanding (company, USD terms)",FY2024-25,69,days,Reported ratio,Raw Data Q04,Lower = faster collection. Computed by the company in USD terms.
+C01,Capital expenditure,FY2022-23,2579,₹ crore,Reported,Raw Data R14,Basis (cash paid vs additions) is not stated in the source.
+C01,Capital expenditure,FY2023-24,2201,₹ crore,Reported,Raw Data R14,Basis (cash paid vs additions) is not stated in the source.
+C01,Capital expenditure,FY2024-25,2237,₹ crore,Reported,Raw Data R14,Basis (cash paid vs additions) is not stated in the source.
+C02,Capex ÷ revenue,FY2022-23,0.0175720700157392,%,Calculated,C01 ÷ Revenue,Capital intensity.
+C02,Capex ÷ revenue,FY2023-24,0.0143228997201796,%,Calculated,C01 ÷ Revenue,Capital intensity.
+C02,Capex ÷ revenue,FY2024-25,0.0137247683906988,%,Calculated,C01 ÷ Revenue,Capital intensity.
+C03,Capex ÷ operating profit,FY2022-23,0.0834492800517716,%,Calculated,C01 ÷ Operating profit,
+C03,Capex ÷ operating profit,FY2023-24,0.0693293854537437,%,Calculated,C01 ÷ Operating profit,
+C03,Capex ÷ operating profit,FY2024-25,0.0649837322798048,%,Calculated,C01 ÷ Operating profit,
+C04,Capex ÷ PAT,FY2022-23,0.10697693711631,%,Calculated,C01 ÷ PAT,
+C04,Capex ÷ PAT,FY2023-24,0.0838540079244133,%,Calculated,C01 ÷ PAT,
+C04,Capex ÷ PAT,FY2024-25,0.0836261682242991,%,Calculated,C01 ÷ PAT,
+C05,"Property, plant and equipment + right-of-use assets",FY2022-23,20675,₹ crore,Calculated,R12 + R13,
+C05,"Property, plant and equipment + right-of-use assets",FY2023-24,19370,₹ crore,Calculated,R12 + R13,
+C05,"Property, plant and equipment + right-of-use assets",FY2024-25,19111,₹ crore,Calculated,R12 + R13,
+C06,(PPE + right-of-use) ÷ total assets,FY2022-23,0.164327271571183,%,Calculated,C05 ÷ Total assets,Falling share = asset base is becoming more financial and less physical.
+C06,(PPE + right-of-use) ÷ total assets,FY2023-24,0.140551758166805,%,Calculated,C05 ÷ Total assets,Falling share = asset base is becoming more financial and less physical.
+C06,(PPE + right-of-use) ÷ total assets,FY2024-25,0.128345298617221,%,Calculated,C05 ÷ Total assets,Falling share = asset base is becoming more financial and less physical.
+D01,Operating margin (calculated),FY2022-23,0.210571858796596,%,Calculated,Operating profit ÷ Revenue,
+D01,Operating margin (calculated),FY2023-24,0.20659204789484,%,Calculated,Operating profit ÷ Revenue,
+D01,Operating margin (calculated),FY2024-25,0.211203141297012,%,Calculated,Operating profit ÷ Revenue,
+D02,Operating margin (printed),FY2022-23,0.211,%,Reported ratio,Raw Data Q05,
+D02,Operating margin (printed),FY2023-24,0.207,%,Reported ratio,Raw Data Q05,
+D02,Operating margin (printed),FY2024-25,0.211,%,Reported ratio,Raw Data Q05,
+D03,PAT margin (calculated),FY2022-23,0.164260358254921,%,Calculated,PAT ÷ Revenue,
+D03,PAT margin (calculated),FY2023-24,0.170807574673001,%,Calculated,PAT ÷ Revenue,
+D03,PAT margin (calculated),FY2024-25,0.164120498190073,%,Calculated,PAT ÷ Revenue,
+D04,PAT margin (printed),FY2022-23,0.164,%,Reported ratio,Raw Data Q10,
+D04,PAT margin (printed),FY2023-24,0.171,%,Reported ratio,Raw Data Q10,
+D04,PAT margin (printed),FY2024-25,0.164,%,Reported ratio,Raw Data Q10,
+D05,Effective tax rate (calculated),FY2022-23,0.27651401476502,%,Calculated,Provision for taxation ÷ PBT,
+D05,Effective tax rate (calculated),FY2023-24,0.270645770812493,%,Calculated,Provision for taxation ÷ PBT,
+D05,Effective tax rate (calculated),FY2024-25,0.288715166985748,%,Calculated,Provision for taxation ÷ PBT,
+D06,Effective tax rate (printed),FY2022-23,0.277,%,Reported ratio,Raw Data Q09,
+D06,Effective tax rate (printed),FY2023-24,0.271,%,Reported ratio,Raw Data Q09,
+D06,Effective tax rate (printed),FY2024-25,0.289,%,Reported ratio,Raw Data Q09,
+D07,Dividend payout (printed),FY2022-23,0.695,%,Reported ratio,Raw Data Q12,Rupee amount of dividends is not in the source.
+D07,Dividend payout (printed),FY2023-24,0.8,%,Reported ratio,Raw Data Q12,Rupee amount of dividends is not in the source.
+D07,Dividend payout (printed),FY2024-25,0.517,%,Reported ratio,Raw Data Q12,Rupee amount of dividends is not in the source.
+D08,"Return on equity, USD terms (printed)",FY2022-23,0.312,%,Reported ratio,Raw Data Q11,
+D08,"Return on equity, USD terms (printed)",FY2023-24,0.321,%,Reported ratio,Raw Data Q11,
+D08,"Return on equity, USD terms (printed)",FY2024-25,0.29,%,Reported ratio,Raw Data Q11,
+E01,Operating cash flow ÷ revenue (printed),FY2022-23,0.157,%,Reported ratio,Raw Data Q01,The only cash-flow information in the source.
+E01,Operating cash flow ÷ revenue (printed),FY2023-24,0.17,%,Reported ratio,Raw Data Q01,The only cash-flow information in the source.
+E01,Operating cash flow ÷ revenue (printed),FY2024-25,0.226,%,Reported ratio,Raw Data Q01,The only cash-flow information in the source.
+E02,Operating cash flow - central estimate,FY2022-23,23042.419,₹ crore,DERIVED - approx.,E01 × Revenue (R01),Not a reported figure. Rounding of the printed ratio means the true value is within the range in E03-E04.
+E02,Operating cash flow - central estimate,FY2023-24,26123.9,₹ crore,DERIVED - approx.,E01 × Revenue (R01),Not a reported figure. Rounding of the printed ratio means the true value is within the range in E03-E04.
+E02,Operating cash flow - central estimate,FY2024-25,36835.74,₹ crore,DERIVED - approx.,E01 × Revenue (R01),Not a reported figure. Rounding of the printed ratio means the true value is within the range in E03-E04.
+E03,Operating cash flow - low end of range,FY2022-23,22969.0355,₹ crore,DERIVED - approx.,(E01 − AS1) × Revenue,
+E03,Operating cash flow - low end of range,FY2023-24,26047.065,₹ crore,DERIVED - approx.,(E01 − AS1) × Revenue,
+E03,Operating cash flow - low end of range,FY2024-25,36754.245,₹ crore,DERIVED - approx.,(E01 − AS1) × Revenue,
+E04,Operating cash flow - high end of range,FY2022-23,23115.8025,₹ crore,DERIVED - approx.,(E01 + AS1) × Revenue,
+E04,Operating cash flow - high end of range,FY2023-24,26200.735,₹ crore,DERIVED - approx.,(E01 + AS1) × Revenue,
+E04,Operating cash flow - high end of range,FY2024-25,36917.235,₹ crore,DERIVED - approx.,(E01 + AS1) × Revenue,
+E05,Capital expenditure (from C01),FY2022-23,2579,₹ crore,Reported,C01,
+E05,Capital expenditure (from C01),FY2023-24,2201,₹ crore,Reported,C01,
+E05,Capital expenditure (from C01),FY2024-25,2237,₹ crore,Reported,C01,
+E06,Free cash flow - central estimate,FY2022-23,20463.419,₹ crore,DERIVED - approx.,E02 − E05,FCF = operating cash flow − capex. Approximate because OCF is rebuilt from a rounded ratio and the capex basis is not stated.
+E06,Free cash flow - central estimate,FY2023-24,23922.9,₹ crore,DERIVED - approx.,E02 − E05,FCF = operating cash flow − capex. Approximate because OCF is rebuilt from a rounded ratio and the capex basis is not stated.
+E06,Free cash flow - central estimate,FY2024-25,34598.74,₹ crore,DERIVED - approx.,E02 − E05,FCF = operating cash flow − capex. Approximate because OCF is rebuilt from a rounded ratio and the capex basis is not stated.
+E07,Free cash flow - low end of range,FY2022-23,20390.0355,₹ crore,DERIVED - approx.,E03 − E05,
+E07,Free cash flow - low end of range,FY2023-24,23846.065,₹ crore,DERIVED - approx.,E03 − E05,
+E07,Free cash flow - low end of range,FY2024-25,34517.245,₹ crore,DERIVED - approx.,E03 − E05,
+E08,Free cash flow - high end of range,FY2022-23,20536.8025,₹ crore,DERIVED - approx.,E04 − E05,
+E08,Free cash flow - high end of range,FY2023-24,23999.735,₹ crore,DERIVED - approx.,E04 − E05,
+E08,Free cash flow - high end of range,FY2024-25,34680.235,₹ crore,DERIVED - approx.,E04 − E05,
+E09,Free cash flow margin (FCF ÷ revenue),FY2022-23,0.139427929984261,%,DERIVED - approx.,E06 ÷ Revenue,
+E09,Free cash flow margin (FCF ÷ revenue),FY2023-24,0.15567710027982,%,DERIVED - approx.,E06 ÷ Revenue,
+E09,Free cash flow margin (FCF ÷ revenue),FY2024-25,0.212275231609301,%,DERIVED - approx.,E06 ÷ Revenue,
+E10,Cash conversion: OCF ÷ PAT - central,FY2022-23,0.955799693047951,x,DERIVED - approx.,E02 ÷ PAT (R06),Above 1.0x means operating cash flow exceeded accounting profit.
+E10,Cash conversion: OCF ÷ PAT - central,FY2023-24,0.995272020725389,x,DERIVED - approx.,E02 ÷ PAT (R06),Above 1.0x means operating cash flow exceeded accounting profit.
+E10,Cash conversion: OCF ÷ PAT - central,FY2024-25,1.37703700934579,x,DERIVED - approx.,E02 ÷ PAT (R06),Above 1.0x means operating cash flow exceeded accounting profit.
+E11,Cash conversion: OCF ÷ PAT - low,FY2022-23,0.952755744980919,x,DERIVED - approx.,E03 ÷ PAT,
+E11,Cash conversion: OCF ÷ PAT - low,FY2023-24,0.992344750076196,x,DERIVED - approx.,E03 ÷ PAT,
+E11,Cash conversion: OCF ÷ PAT - low,FY2024-25,1.37399046728972,x,DERIVED - approx.,E03 ÷ PAT,
+E12,Cash conversion: OCF ÷ PAT - high,FY2022-23,0.958843641114983,x,DERIVED - approx.,E04 ÷ PAT,
+E12,Cash conversion: OCF ÷ PAT - high,FY2023-24,0.998199291374581,x,DERIVED - approx.,E04 ÷ PAT,
+E12,Cash conversion: OCF ÷ PAT - high,FY2024-25,1.38008355140187,x,DERIVED - approx.,E04 ÷ PAT,
+E13,FCF ÷ PAT - central,FY2022-23,0.848822755931641,x,DERIVED - approx.,E06 ÷ PAT,
+E13,FCF ÷ PAT - central,FY2023-24,0.911418012800975,x,DERIVED - approx.,E06 ÷ PAT,
+E13,FCF ÷ PAT - central,FY2024-25,1.2934108411215,x,DERIVED - approx.,E06 ÷ PAT,
+E14,Change in cash + investments during the year,FY2022-23,n.a.,₹ crore,Calculated,A03 this year − A03 last year,Can also move for reasons other than cash flow (e.g. fair-value and currency effects).
+E14,Change in cash + investments during the year,FY2023-24,7758,₹ crore,Calculated,A03 this year − A03 last year,Can also move for reasons other than cash flow (e.g. fair-value and currency effects).
+E14,Change in cash + investments during the year,FY2024-25,8587,₹ crore,Calculated,A03 this year − A03 last year,Can also move for reasons other than cash flow (e.g. fair-value and currency effects).
+E15,Residual: FCF not reflected in the rise in cash + investments,FY2022-23,n.a.,₹ crore,DERIVED - approx.,E06 − E14,"Cash that left the pool for reasons the source does not itemise (it cannot say whether dividends, leases, acquisitions or other items). Indicative only; not a cash bridge."
+E15,Residual: FCF not reflected in the rise in cash + investments,FY2023-24,16164.9,₹ crore,DERIVED - approx.,E06 − E14,"Cash that left the pool for reasons the source does not itemise (it cannot say whether dividends, leases, acquisitions or other items). Indicative only; not a cash bridge."
+E15,Residual: FCF not reflected in the rise in cash + investments,FY2024-25,26011.74,₹ crore,DERIVED - approx.,E06 − E14,"Cash that left the pool for reasons the source does not itemise (it cannot say whether dividends, leases, acquisitions or other items). Indicative only; not a cash bridge."
+E16,Residual as % of FCF,FY2022-23,n.a.,%,DERIVED - approx.,E15 ÷ E06,
+E16,Residual as % of FCF,FY2023-24,0.675708212633084,%,DERIVED - approx.,E15 ÷ E06,
+E16,Residual as % of FCF,FY2024-25,0.751811771180107,%,DERIVED - approx.,E15 ÷ E06,
+E17,Company 'cash and investments' rebuilt from ratio × total assets,FY2022-23,31328.184,₹ crore,DERIVED - approx.,Q02 × Total assets,Used only as a consistency test of the printed ratios.
+E17,Company 'cash and investments' rebuilt from ratio × total assets,FY2023-24,39001.362,₹ crore,DERIVED - approx.,Q02 × Total assets,Used only as a consistency test of the printed ratios.
+E17,Company 'cash and investments' rebuilt from ratio × total assets,FY2024-25,47500.057,₹ crore,DERIVED - approx.,Q02 × Total assets,Used only as a consistency test of the printed ratios.
+E18,Company 'cash and investments' rebuilt from ratio × revenue,FY2022-23,31261.371,₹ crore,DERIVED - approx.,Q03 × Revenue,
+E18,Company 'cash and investments' rebuilt from ratio × revenue,FY2023-24,39032.18,₹ crore,DERIVED - approx.,Q03 × Revenue,
+E18,Company 'cash and investments' rebuilt from ratio × revenue,FY2024-25,47593.08,₹ crore,DERIVED - approx.,Q03 × Revenue,
+E19,Difference between the two rebuilds,FY2022-23,-66.8130000000019,₹ crore,Check,E18 − E17,Should be within the combined rounding tolerance of the two ratios.
+E19,Difference between the two rebuilds,FY2023-24,30.8180000000066,₹ crore,Check,E18 − E17,Should be within the combined rounding tolerance of the two ratios.
+E19,Difference between the two rebuilds,FY2024-25,93.0229999999938,₹ crore,Check,E18 − E17,Should be within the combined rounding tolerance of the two ratios.

@@ -1,0 +1,155 @@
+item_id,section,item,financial_year,value,unit,value_status,pdf_page,table_in_pdf,source_code,source_file,note
+R01,A. Financial performance (Rs crore),Revenue,FY2022-23,146767,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R01,A. Financial performance (Rs crore),Revenue,FY2023-24,153670,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R01,A. Financial performance (Rs crore),Revenue,FY2024-25,162990,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R02,A. Financial performance (Rs crore),Operating profit,FY2022-23,30905,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Before other income and finance cost (file does not give a definition).
+R02,A. Financial performance (Rs crore),Operating profit,FY2023-24,31747,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Before other income and finance cost (file does not give a definition).
+R02,A. Financial performance (Rs crore),Operating profit,FY2024-25,34424,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Before other income and finance cost (file does not give a definition).
+R03,A. Financial performance (Rs crore),Finance cost,FY2022-23,284,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,"Debt is nil in the same table, so the file does not show what this cost relates to."
+R03,A. Financial performance (Rs crore),Finance cost,FY2023-24,470,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,"Debt is nil in the same table, so the file does not show what this cost relates to."
+R03,A. Financial performance (Rs crore),Finance cost,FY2024-25,416,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,"Debt is nil in the same table, so the file does not show what this cost relates to."
+R04,A. Financial performance (Rs crore),Profit before income taxes (PBT),FY2022-23,33322,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R04,A. Financial performance (Rs crore),Profit before income taxes (PBT),FY2023-24,35988,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R04,A. Financial performance (Rs crore),Profit before income taxes (PBT),FY2024-25,37608,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R05,A. Financial performance (Rs crore),Provision for taxation,FY2022-23,9214,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R05,A. Financial performance (Rs crore),Provision for taxation,FY2023-24,9740,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R05,A. Financial performance (Rs crore),Provision for taxation,FY2024-25,10858,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R06,A. Financial performance (Rs crore),Profit after tax (PAT),FY2022-23,24108,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R06,A. Financial performance (Rs crore),Profit after tax (PAT),FY2023-24,26248,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R06,A. Financial performance (Rs crore),Profit after tax (PAT),FY2024-25,26750,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R07,A. Financial performance (Rs crore),Profit attributable to non-controlling interests,FY2022-23,13,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R07,A. Financial performance (Rs crore),Profit attributable to non-controlling interests,FY2023-24,15,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R07,A. Financial performance (Rs crore),Profit attributable to non-controlling interests,FY2024-25,37,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R08,A. Financial performance (Rs crore),Profit attributable to owners of the Company,FY2022-23,24095,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R08,A. Financial performance (Rs crore),Profit attributable to owners of the Company,FY2023-24,26233,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R08,A. Financial performance (Rs crore),Profit attributable to owners of the Company,FY2024-25,26713,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R10,B. Financial position and capital expenditure (Rs crore),Equity,FY2022-23,75795,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R10,B. Financial position and capital expenditure (Rs crore),Equity,FY2023-24,88461,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R10,B. Financial position and capital expenditure (Rs crore),Equity,FY2024-25,96203,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R11,B. Financial position and capital expenditure (Rs crore),Debt,FY2022-23,0,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Printed as a dash (nil) in every year from 2014 to 2025; entered as 0.
+R11,B. Financial position and capital expenditure (Rs crore),Debt,FY2023-24,0,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Printed as a dash (nil) in every year from 2014 to 2025; entered as 0.
+R11,B. Financial position and capital expenditure (Rs crore),Debt,FY2024-25,0,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Printed as a dash (nil) in every year from 2014 to 2025; entered as 0.
+R12,B. Financial position and capital expenditure (Rs crore),"Property, plant and equipment",FY2022-23,13793,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R12,B. Financial position and capital expenditure (Rs crore),"Property, plant and equipment",FY2023-24,12818,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R12,B. Financial position and capital expenditure (Rs crore),"Property, plant and equipment",FY2024-25,12800,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R13,B. Financial position and capital expenditure (Rs crore),Right-of-use assets,FY2022-23,6882,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R13,B. Financial position and capital expenditure (Rs crore),Right-of-use assets,FY2023-24,6552,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R13,B. Financial position and capital expenditure (Rs crore),Right-of-use assets,FY2024-25,6311,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R14,B. Financial position and capital expenditure (Rs crore),Capital expenditure,FY2022-23,2579,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Definition not given in the file (cash outflow vs. additions not stated).
+R14,B. Financial position and capital expenditure (Rs crore),Capital expenditure,FY2023-24,2201,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Definition not given in the file (cash outflow vs. additions not stated).
+R14,B. Financial position and capital expenditure (Rs crore),Capital expenditure,FY2024-25,2237,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Definition not given in the file (cash outflow vs. additions not stated).
+R15,B. Financial position and capital expenditure (Rs crore),Cash and cash equivalents,FY2022-23,12173,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R15,B. Financial position and capital expenditure (Rs crore),Cash and cash equivalents,FY2023-24,14786,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R15,B. Financial position and capital expenditure (Rs crore),Cash and cash equivalents,FY2024-25,24455,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R16,B. Financial position and capital expenditure (Rs crore),Current and non-current investments,FY2022-23,19478,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Current and non-current are combined in one line; the split is not in the file.
+R16,B. Financial position and capital expenditure (Rs crore),Current and non-current investments,FY2023-24,24623,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Current and non-current are combined in one line; the split is not in the file.
+R16,B. Financial position and capital expenditure (Rs crore),Current and non-current investments,FY2024-25,23541,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Current and non-current are combined in one line; the split is not in the file.
+R17,B. Financial position and capital expenditure (Rs crore),Net current assets,FY2022-23,31695,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Definition not given; understood as current assets less current liabilities. Neither component is in the file.
+R17,B. Financial position and capital expenditure (Rs crore),Net current assets,FY2023-24,50638,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Definition not given; understood as current assets less current liabilities. Neither component is in the file.
+R17,B. Financial position and capital expenditure (Rs crore),Net current assets,FY2024-25,54249,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Definition not given; understood as current assets less current liabilities. Neither component is in the file.
+R18,B. Financial position and capital expenditure (Rs crore),Total assets,FY2022-23,125816,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R18,B. Financial position and capital expenditure (Rs crore),Total assets,FY2023-24,137814,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R18,B. Financial position and capital expenditure (Rs crore),Total assets,FY2024-25,148903,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,
+R19,B. Financial position and capital expenditure (Rs crore),Market capitalisation - period end,FY2022-23,592394,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Context only; not used in liquidity metrics.
+R19,B. Financial position and capital expenditure (Rs crore),Market capitalisation - period end,FY2023-24,621821,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Context only; not used in liquidity metrics.
+R19,B. Financial position and capital expenditure (Rs crore),Market capitalisation - period end,FY2024-25,652332,INR crore,reported,p.4,Historical Data,S1,infosys.pdf,Context only; not used in liquidity metrics.
+Q01,C. Reported ratios,Operating cash flows / revenue,FY2022-23,0.157,%,reported,p.1,Ratio analysis,S1,infosys.pdf,The ONLY cash-flow-statement information in the file. Rounded to 0.1 percentage point.
+Q01,C. Reported ratios,Operating cash flows / revenue,FY2023-24,0.17,%,reported,p.1,Ratio analysis,S1,infosys.pdf,The ONLY cash-flow-statement information in the file. Rounded to 0.1 percentage point.
+Q01,C. Reported ratios,Operating cash flows / revenue,FY2024-25,0.226,%,reported,p.1,Ratio analysis,S1,infosys.pdf,The ONLY cash-flow-statement information in the file. Rounded to 0.1 percentage point.
+Q02,C. Reported ratios,Consolidated cash and investments / total assets,FY2022-23,0.249,%,reported,p.1,Ratio analysis,S1,infosys.pdf,"Non-IFRS measure; footnote (2) on p.1 lists items excluded (equity/preference shares, unquoted CCDs, others)."
+Q02,C. Reported ratios,Consolidated cash and investments / total assets,FY2023-24,0.28300000000000003,%,reported,p.1,Ratio analysis,S1,infosys.pdf,"Non-IFRS measure; footnote (2) on p.1 lists items excluded (equity/preference shares, unquoted CCDs, others)."
+Q02,C. Reported ratios,Consolidated cash and investments / total assets,FY2024-25,0.319,%,reported,p.1,Ratio analysis,S1,infosys.pdf,"Non-IFRS measure; footnote (2) on p.1 lists items excluded (equity/preference shares, unquoted CCDs, others)."
+Q03,C. Reported ratios,Consolidated cash and investments / revenue,FY2022-23,0.213,%,reported,p.1,Ratio analysis,S1,infosys.pdf,Same non-IFRS definition as Q02.
+Q03,C. Reported ratios,Consolidated cash and investments / revenue,FY2023-24,0.254,%,reported,p.1,Ratio analysis,S1,infosys.pdf,Same non-IFRS definition as Q02.
+Q03,C. Reported ratios,Consolidated cash and investments / revenue,FY2024-25,0.292,%,reported,p.1,Ratio analysis,S1,infosys.pdf,Same non-IFRS definition as Q02.
+Q04,C. Reported ratios,Day's sales outstanding (USD terms),FY2022-23,62,days,reported,p.1,Ratio analysis,S1,infosys.pdf,Computed by the company in USD terms.
+Q04,C. Reported ratios,Day's sales outstanding (USD terms),FY2023-24,71,days,reported,p.1,Ratio analysis,S1,infosys.pdf,Computed by the company in USD terms.
+Q04,C. Reported ratios,Day's sales outstanding (USD terms),FY2024-25,69,days,reported,p.1,Ratio analysis,S1,infosys.pdf,Computed by the company in USD terms.
+Q05,C. Reported ratios,Operating profit / revenue,FY2022-23,0.21100000000000002,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q05,C. Reported ratios,Operating profit / revenue,FY2023-24,0.207,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q05,C. Reported ratios,Operating profit / revenue,FY2024-25,0.21100000000000002,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q06,C. Reported ratios,Other income / revenue,FY2022-23,0.018000000000000002,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q06,C. Reported ratios,Other income / revenue,FY2023-24,0.031,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q06,C. Reported ratios,Other income / revenue,FY2024-25,0.022000000000000002,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q07,C. Reported ratios,Profit before tax (PBT) / revenue,FY2022-23,0.22699999999999998,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q07,C. Reported ratios,Profit before tax (PBT) / revenue,FY2023-24,0.23399999999999999,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q07,C. Reported ratios,Profit before tax (PBT) / revenue,FY2024-25,0.231,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q08,C. Reported ratios,Tax / revenue,FY2022-23,0.063,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q08,C. Reported ratios,Tax / revenue,FY2023-24,0.063,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q08,C. Reported ratios,Tax / revenue,FY2024-25,0.067,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q09,C. Reported ratios,Effective tax rate (tax / PBT),FY2022-23,0.27699999999999997,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q09,C. Reported ratios,Effective tax rate (tax / PBT),FY2023-24,0.271,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q09,C. Reported ratios,Effective tax rate (tax / PBT),FY2024-25,0.289,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q10,C. Reported ratios,Profit after tax (PAT) / revenue,FY2022-23,0.16399999999999998,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q10,C. Reported ratios,Profit after tax (PAT) / revenue,FY2023-24,0.171,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q10,C. Reported ratios,Profit after tax (PAT) / revenue,FY2024-25,0.16399999999999998,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q11,C. Reported ratios,Return on equity (USD terms),FY2022-23,0.312,%,reported,p.1,Ratio analysis,S1,infosys.pdf,USD terms; cannot be recomputed from rupee figures in the file.
+Q11,C. Reported ratios,Return on equity (USD terms),FY2023-24,0.321,%,reported,p.1,Ratio analysis,S1,infosys.pdf,USD terms; cannot be recomputed from rupee figures in the file.
+Q11,C. Reported ratios,Return on equity (USD terms),FY2024-25,0.29,%,reported,p.1,Ratio analysis,S1,infosys.pdf,USD terms; cannot be recomputed from rupee figures in the file.
+Q12,C. Reported ratios,Dividend payout,FY2022-23,0.695,%,reported,p.1,Ratio analysis,S1,infosys.pdf,Definition and rupee amount of dividends are not in the file.
+Q12,C. Reported ratios,Dividend payout,FY2023-24,0.8,%,reported,p.1,Ratio analysis,S1,infosys.pdf,Definition and rupee amount of dividends are not in the file.
+Q12,C. Reported ratios,Dividend payout,FY2024-25,0.517,%,reported,p.1,Ratio analysis,S1,infosys.pdf,Definition and rupee amount of dividends are not in the file.
+Q13,C. Reported ratios,Market capitalisation / revenue (times),FY2022-23,4.0,x,reported,p.1,Ratio analysis,S1,infosys.pdf,Context only.
+Q13,C. Reported ratios,Market capitalisation / revenue (times),FY2023-24,4.0,x,reported,p.1,Ratio analysis,S1,infosys.pdf,Context only.
+Q13,C. Reported ratios,Market capitalisation / revenue (times),FY2024-25,4.0,x,reported,p.1,Ratio analysis,S1,infosys.pdf,Context only.
+Q14,C. Reported ratios,Cost of sales / revenue,FY2022-23,0.6970000000000001,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q14,C. Reported ratios,Cost of sales / revenue,FY2023-24,0.6990000000000001,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q14,C. Reported ratios,Cost of sales / revenue,FY2024-25,0.695,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q16,C. Reported ratios,Export revenue / revenue,FY2022-23,0.9740000000000001,%,reported,p.1,Ratio analysis,S1,infosys.pdf,The file does not define 'export revenue' or give its currency mix.
+Q16,C. Reported ratios,Export revenue / revenue,FY2023-24,0.975,%,reported,p.1,Ratio analysis,S1,infosys.pdf,The file does not define 'export revenue' or give its currency mix.
+Q16,C. Reported ratios,Export revenue / revenue,FY2024-25,0.9690000000000001,%,reported,p.1,Ratio analysis,S1,infosys.pdf,The file does not define 'export revenue' or give its currency mix.
+Q15,C. Reported ratios,Aggregate employee costs / revenue,FY2022-23,0.534,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q15,C. Reported ratios,Aggregate employee costs / revenue,FY2023-24,0.5379999999999999,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+Q15,C. Reported ratios,Aggregate employee costs / revenue,FY2024-25,0.527,%,reported,p.1,Ratio analysis,S1,infosys.pdf,
+S01,D. Per-share data and growth (p.3 and p.4),Basic EPS,FY2022-23,57.63,INR,reported,p.4,Historical Data,S1,infosys.pdf,Same values on p.1.
+S01,D. Per-share data and growth (p.3 and p.4),Basic EPS,FY2023-24,63.39,INR,reported,p.4,Historical Data,S1,infosys.pdf,Same values on p.1.
+S01,D. Per-share data and growth (p.3 and p.4),Basic EPS,FY2024-25,64.5,INR,reported,p.4,Historical Data,S1,infosys.pdf,Same values on p.1.
+S02,D. Per-share data and growth (p.3 and p.4),Book value per share,FY2022-23,182,INR,reported,p.4,Historical Data,S1,infosys.pdf,
+S02,D. Per-share data and growth (p.3 and p.4),Book value per share,FY2023-24,213,INR,reported,p.4,Historical Data,S1,infosys.pdf,
+S02,D. Per-share data and growth (p.3 and p.4),Book value per share,FY2024-25,231,INR,reported,p.4,Historical Data,S1,infosys.pdf,
+G01,D. Per-share data and growth (p.3 and p.4),"Revenue growth, as printed (INR crore basis)",FY2022-23,0.21,%,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Printed as whole percentages.
+G01,D. Per-share data and growth (p.3 and p.4),"Revenue growth, as printed (INR crore basis)",FY2023-24,0.05,%,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Printed as whole percentages.
+G01,D. Per-share data and growth (p.3 and p.4),"Revenue growth, as printed (INR crore basis)",FY2024-25,0.06,%,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Printed as whole percentages.
+G02,D. Per-share data and growth (p.3 and p.4),"PAT growth, as printed (INR crore basis)",FY2022-23,0.09,%,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Printed as whole percentages.
+G02,D. Per-share data and growth (p.3 and p.4),"PAT growth, as printed (INR crore basis)",FY2023-24,0.09,%,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Printed as whole percentages.
+G02,D. Per-share data and growth (p.3 and p.4),"PAT growth, as printed (INR crore basis)",FY2024-25,0.02,%,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Printed as whole percentages.
+X01,E. Cross-page copies and prior-year references (used only by audit checks),Revenue as shown in the growth table,FY2022-23,146767,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Second appearance of revenue; compared with R01 by an audit check.
+X01,E. Cross-page copies and prior-year references (used only by audit checks),Revenue as shown in the growth table,FY2023-24,153670,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Second appearance of revenue; compared with R01 by an audit check.
+X01,E. Cross-page copies and prior-year references (used only by audit checks),Revenue as shown in the growth table,FY2024-25,162990,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Second appearance of revenue; compared with R01 by an audit check.
+X02,E. Cross-page copies and prior-year references (used only by audit checks),PAT as shown in the growth table,FY2022-23,24108,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Second appearance of PAT; compared with R06.
+X02,E. Cross-page copies and prior-year references (used only by audit checks),PAT as shown in the growth table,FY2023-24,26248,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Second appearance of PAT; compared with R06.
+X02,E. Cross-page copies and prior-year references (used only by audit checks),PAT as shown in the growth table,FY2024-25,26750,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Second appearance of PAT; compared with R06.
+X03,E. Cross-page copies and prior-year references (used only by audit checks),"Revenue, previous financial year",FY2022-23,121641,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,FY2021-22 revenue is printed on p.3 and p.4; FY23/FY24 values repeat R01.
+X03,E. Cross-page copies and prior-year references (used only by audit checks),"Revenue, previous financial year",FY2023-24,146767,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,FY2021-22 revenue is printed on p.3 and p.4; FY23/FY24 values repeat R01.
+X03,E. Cross-page copies and prior-year references (used only by audit checks),"Revenue, previous financial year",FY2024-25,153670,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,FY2021-22 revenue is printed on p.3 and p.4; FY23/FY24 values repeat R01.
+X04,E. Cross-page copies and prior-year references (used only by audit checks),"PAT, previous financial year",FY2022-23,22146,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,FY2021-22 PAT is printed on p.3 and p.4.
+X04,E. Cross-page copies and prior-year references (used only by audit checks),"PAT, previous financial year",FY2023-24,24108,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,FY2021-22 PAT is printed on p.3 and p.4.
+X04,E. Cross-page copies and prior-year references (used only by audit checks),"PAT, previous financial year",FY2024-25,26248,INR crore,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,FY2021-22 PAT is printed on p.3 and p.4.
+X05,E. Cross-page copies and prior-year references (used only by audit checks),Employees at year end (Infosys Group),FY2022-23,343234,count,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Context only.
+X05,E. Cross-page copies and prior-year references (used only by audit checks),Employees at year end (Infosys Group),FY2023-24,317240,count,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Context only.
+X05,E. Cross-page copies and prior-year references (used only by audit checks),Employees at year end (Infosys Group),FY2024-25,323578,count,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Context only.
+X06,E. Cross-page copies and prior-year references (used only by audit checks),"Revenue (USD million, IFRS)",FY2022-23,18212,USD million,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Context only.
+X06,E. Cross-page copies and prior-year references (used only by audit checks),"Revenue (USD million, IFRS)",FY2023-24,18562,USD million,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Context only.
+X06,E. Cross-page copies and prior-year references (used only by audit checks),"Revenue (USD million, IFRS)",FY2024-25,19277,USD million,reported,p.3,Employee strength and revenue growth,S1,infosys.pdf,Context only.
+T01,F. Credit ratings (text; p.4),Standard & Poor's,FY2022-23,A,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T01,F. Credit ratings (text; p.4),Standard & Poor's,FY2023-24,A,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T01,F. Credit ratings (text; p.4),Standard & Poor's,FY2024-25,A,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T02,F. Credit ratings (text; p.4),CRISIL,FY2022-23,AAA,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T02,F. Credit ratings (text; p.4),CRISIL,FY2023-24,AAA,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T02,F. Credit ratings (text; p.4),CRISIL,FY2024-25,AAA,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T03,F. Credit ratings (text; p.4),Moody's,FY2022-23,Baa1,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T03,F. Credit ratings (text; p.4),Moody's,FY2023-24,Baa1,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T03,F. Credit ratings (text; p.4),Moody's,FY2024-25,Baa1,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T04,F. Credit ratings (text; p.4),Dun & Bradstreet,FY2022-23,5A1,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T04,F. Credit ratings (text; p.4),Dun & Bradstreet,FY2023-24,5A1,text,reported,p.4,Historical Data,S1,infosys.pdf,
+T04,F. Credit ratings (text; p.4),Dun & Bradstreet,FY2024-25,5A1,text,reported,p.4,Historical Data,S1,infosys.pdf,
+,Not available in source,Net cash from operating activities (Rs crore),all years,,,not_available,,,S1,infosys.pdf,Only the ratio 'Operating cash flows / revenue' (p.1) is printed. Approximated in the model from the rounded ratio and labelled DERIVED with a rounding range.
+,Not available in source,Free cash flow (reported),all years,,,not_available,,,S1,infosys.pdf,"Not in the file. Approximated as derived OCF minus the file's capital expenditure, with range."
+,Not available in source,Total current assets,all years,,,not_available,,,S1,infosys.pdf,Not in the file (only 'net current assets'). Current ratio NOT calculated.
+,Not available in source,Total current liabilities,all years,,,not_available,,,S1,infosys.pdf,"Not in the file. Current ratio, cash ratio, expanded cash coverage and OCF ratio NOT calculated."
+,Not available in source,"Unearned revenue, trade payables and other current liability lines",all years,,,not_available,,,S1,infosys.pdf,Not in the file. Cannot analyse what drives short-term obligations.
+,Not available in source,Split of investments between current and non-current,all years,,,not_available,,,S1,infosys.pdf,"Combined line only. Cash + investments is a broad measure, not a current-asset measure."
+,Not available in source,"Dividends paid, buy-backs, lease payments, tax paid (Rs crore)",all years,,,not_available,,,S1,infosys.pdf,Only the dividend payout ratio is printed. Uses of cash cannot be itemised; only an unexplained residual is shown.
+,Not available in source,Interest received / treasury income,all years,,,not_available,,,S1,infosys.pdf,Only 'other income / revenue' is printed. Treasury yield on cash and investments NOT calculated.
+,Not available in source,"Capital commitments, contingent liabilities, credit lines",all years,,,not_available,,,S1,infosys.pdf,Not in the file. Forward-looking cash calls not assessed.
+,Not available in source,Daily or intra-year cash balances and management forecasts,all years,,,not_available,,,S1,infosys.pdf,Never published in annual reports. Out of scope for any public-data analysis.
