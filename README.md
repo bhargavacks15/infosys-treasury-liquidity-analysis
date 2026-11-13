@@ -101,5 +101,5 @@ The project uses figures from pages 1, 3 and 4 of the extract. The extract is no
 
 This project is for educational and analytical purposes only. It is not investment advice and does not describe Infosys Limited’s internal treasury policies or decision-making. Infosys is a trademark of Infosys Limited. This project is independent and is not affiliated with, endorsed by, or sponsored by Infosys Limited.
 
-**Author:** Bhargava C  
+**Author:** Bhargava C and Vatsal Shukla 
 
